@@ -6,8 +6,8 @@
 # Installation
 <ul>
   <li>Install Python with PIP <a href = "https://www.python.org/"> Python.org </a> </li>
-  <li>Get Selenium : `pip install selenium`</li>
-  <li>Get twilio : `pip install twilio`</li>
+ <li>Get Selenium : <code>pip install selenium</code></li>
+  <li>Get twilio : <code>pip install twilio</code></li>
   
 </ul>
 
